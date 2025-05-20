@@ -38,7 +38,7 @@ All experiments are run on the Hindi subset of the Dakshina dataset (`hi.trans
 2. Install required Python packages:
    ```bash
    pip install tensorflow wandb matplotlib plotly
-````
+
 
 3. If you run in Kaggle, you don’t need to install CUDA or TensorFlow—just import.
 
