@@ -115,9 +115,9 @@ python Src/attention_seq2seq_transliteration_heatmaps.py
 
 ##  Results
 
-* **Best Vanilla Test Accuracy**: *X.XX %*
-* **Best Attention Test Accuracy**: *Y.YY %*
-* Predictions for all test samples are in the respective `predictions_*` folders as `.npz` arrays.
+* **Best Vanilla Test Accuracy**: *29.2 %*
+* **Best Attention Test Accuracy**: *37.2 %*
+* Predictions for all test samples are in the respective `predictions_*` folders as `.csv` files.
 
 ---
 
@@ -125,8 +125,8 @@ python Src/attention_seq2seq_transliteration_heatmaps.py
 
 * All W\&B sweep dashboards are under:
 
-  * `<entity>/assignment3` for vanilla
-  * `<entity>/assignment3_attn` for attention
+  * `da24m025/assignment3` for vanilla
+  * `da24m025/assignment3_attn` for attention
 * Use the W\&B Reports editor to embed:
 
   ````markdown
