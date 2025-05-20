@@ -1,5 +1,5 @@
 
-```markdown
+
 # Dakshina Transliteration (Assignment 3, Part A)
 
 This repository contains code and results for a sequence‑to‑sequence transliteration task (Latin → Devanagari) using:
@@ -14,9 +14,6 @@ All experiments are run on the Hindi subset of the Dakshina dataset (`hi.trans
 
 ##  Repository Layout
 
-```
-
-.
 ├── Src/
 │   ├── seq2seq\_vanilla\_transliteration\_bestparams\_test.py
 │   ├── seq2seq\_transliteration\_sweep.py
