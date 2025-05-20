@@ -21,10 +21,10 @@ All experiments are run on the Hindi subset of the Dakshina dataset (`hi.trans
 │   └── attention\_seq2seq\_transliteration\_heatmaps.py
 │
 ├── predictions\_vanilla/
-│   └── \*.npz        ← entire test‑set outputs from best vanilla model
+│   └── \*.csv        ← entire test‑set outputs from best vanilla model
 │
 ├── predictions\_attention/
-│   └── \*.npz        ← entire test‑set outputs from best attention model
+│   └── \*.csv       ← entire test‑set outputs from best attention model
 │
 └── README.md
 
