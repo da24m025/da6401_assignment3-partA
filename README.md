@@ -7,6 +7,7 @@
 [Connectivity Visualization Demo](https://drive.google.com/file/d/18BYq6F43r6F1PT6niaP5O-98PrkKZM4t/view?usp=sharing)
 
 [Wandb Report](https://api.wandb.ai/links/da24m025-iit-madras/gxkvman2)
+
 This repository contains code and results for a sequence‑to‑sequence transliteration task (Latin → Devanagari) using:
 
 1. **Vanilla** RNN/GRU/LSTM seq2seq  
