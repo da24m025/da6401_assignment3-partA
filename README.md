@@ -27,6 +27,8 @@ All experiments are run on the Hindi subset of the Dakshina dataset (`hi.trans
 │   └── \*.csv       ← entire test‑set outputs from best attention model
 │
 └── README.md
+└── Connectivity Visualization.mp4 # Screen Recording of connectivity Visualizer
+└── Connectivity Visualization Example # Connectivity of an example from the test data folder
 
 ````
 
